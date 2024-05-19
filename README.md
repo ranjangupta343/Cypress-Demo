@@ -1,7 +1,10 @@
-for setup in visual studio code type the below commands in Terminal
-npm init
-npm install cypress --save-dev
-npx cypress open
+For setup in visual studio code type the below commands in Terminal
+
+
+
+1. npm init
+2. npm install cypress --save-dev
+3. npx cypress open
 or 
 npm install --global yarn
 yarn run cypress open
